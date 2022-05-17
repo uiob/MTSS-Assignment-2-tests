@@ -1,3 +1,2 @@
-![CI with Maven](https://github.com/uiob/dw-demo-app/actions/workflows/maven.yml/badge.svg)
-
+![CI with Maven](https://github.com/GiovanniCol99/MTSS-Assignment-2/actions/workflows/main.yml/badge.svg)
 # MTSS-Assignment-2
